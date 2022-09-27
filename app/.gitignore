@@ -1,0 +1,5 @@
+/build
+/src/test/java/
+/src/androidTest/java/
+.gradle/
+.idea/
